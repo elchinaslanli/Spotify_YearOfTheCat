@@ -1,0 +1,73 @@
+For adding text to image:
+
+https://www.geeksforgeeks.org/adding-text-on-image-using-python-pil/
+
+Font link:
+
+https://fontzone.net/font-download/courier-new
+
+Fetch size of image
+
+https://note.nkmk.me/en/python-opencv-pillow-image-size/
+
+Learning about anchors:
+
+https://pillow.readthedocs.io/en/stable/handbook/text-anchors.html
+
+Getting pixel coordinates:
+
+https://pixspy.com/
+
+spotify official documentation:
+
+https://developer.spotify.com/console/get-playlist-tracks/
+
+https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks
+
+json parsing:
+
+https://stackoverflow.com/a/32059453
+
+curl convertor to python:
+
+https://curlconverter.com/
+
+drawing a progress bar:
+
+https://stackoverflow.com/a/66887674
+
+drawing rectangle:
+
+https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html
+
+https://www.geeksforgeeks.org/python-pil-imagedraw-draw-rectangle/
+
+
+https://fontzone.net/download/agencyfb-bold
+
+uploading image:
+
+https://stackoverflow.com/a/67359130
+
+image resize:
+
+https://cloudinary.com/guides/bulk-image-resize/python-image-resize-with-pillow-and-opencv
+
+put method for spotify:
+
+https://stackoverflow.com/questions/59868378/how-do-i-upload-a-custom-playlist-cover-image-with-spotify-api
+
+
+running the python code on cheap or free cloud services and other links:
+
+https://www.pythonanywhere.com/
+
+https://help.pythonanywhere.com/pages/SettingTheTimezone/
+
+https://lvngd.com/blog/accessing-spotify-api-python/
+
+https://devcenter.heroku.com/articles/getting-started-with-python#prepare-the-app
+
+https://blog.finxter.com/how-to-schedule-your-python-script-for-free-on-heroku/
+
+https://python.plainenglish.io/bored-of-libraries-heres-how-to-connect-to-the-spotify-api-using-pure-python-bd31e9e3d88a
