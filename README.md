@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the "Year of the Cat Playlist Project" repository! This project is about building a habit of adding a new song to a Spotify playlist every day. It combines technology with the challenge of habit formation, inspired by the difficulties in maintaining New Year's resolutions.
 For spotify playlist link:  [Year of the Cat](https://open.spotify.com/playlist/5SeRSnMKdrkDX0Gi60fI9z?si=f1b85ad527b343de).
-
+For youtube link:  [Youtube Shorts](https://www.youtube.com/shorts/oxXuk04caG4).
 ![Alt text for your image](https://i.ibb.co/LPLwNTb/image.png)
 
 ## Features
