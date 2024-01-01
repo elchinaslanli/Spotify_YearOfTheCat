@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 After installing the dependencies, run the main script to start the application. For detailed instructions on setup and Spotify integration, refer to resources.txt and the comments in the files.
 
-License
+##License
 This project is released under the MIT License. See the LICENSE file for details.
 
 ## Authors
